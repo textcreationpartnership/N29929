@@ -109,8 +109,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:039785_0000_1015C56FDF8FF4C0"/>
-            <pb facs="tcp:039785_0001_1015C56C661FE728" rendition="simple:additions"/>
+            <pb facs="unknown:039785_0000_1015C56FDF8FF4C0"/>
+            <pb facs="unknown:039785_0001_1015C56C661FE728"
+                rendition="simple:additions"/>
             <p>TRYALS Of Thirty-Six Perſons for PIRACY.</p>
             <p>Twenty-Eight of them upon full Evidence were found Guilty, and the Reſt Acquitted.</p>
             <p>At a Court of Admiralty for Tryal of Pirates, Held at <hi>Newport</hi> within His Majeſties Colony of <hi>Rhode-Iſland</hi> and <hi>Providence-Plantations</hi> in <hi>America,</hi> on the Tenth, Eleventh and Twelfth Days of <hi>July,</hi> Anno Dom. 1723. Purſuant to His Majeſties Commiſſion. Founded on an Act of Parliament, made in the Eleventh &amp; Twelfth Years of King WILLIAM the Third, Entituled, <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -129,7 +130,8 @@
       <body>
          <div type="trial_proceedings">
             <div type="days_proceedings">
-               <pb facs="tcp:039785_0002_1015C58895B95EF0" rendition="simple:additions"/>
+               <pb facs="unknown:039785_0002_1015C58895B95EF0"
+                   rendition="simple:additions"/>
                <head>At a Court of Admiralty for the Tryal of Pirates held at the Town-Houſe in <hi>New-Port</hi> in the Colony of <hi>Rhode-Iſland</hi> and <hi>Providence-Plantations,</hi> the Tenth Day of <hi>July,</hi> In the Ninth Year of His Majeſties Reign. <hi>Anno<expan>
                         <am>
                            <g ref="char:abque"/>
@@ -316,7 +318,7 @@
                      </gap> Fitz Gerra<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>d<g ref="char:punc">▪</g>
-                     <pb n="2" facs="tcp:039785_0003_1015C573431D0AF8"/>
+                     <pb n="2" facs="unknown:039785_0003_1015C573431D0AF8"/>
 William Studfield, Owen Rice, William Read, Thomas Hugget, Peter Cues, Thomas Jones, William Jones, Edward Eaton, John Brown, James Sprinkly, John Brown, Joſeph Sound, Charles Church, John Waters, Thomas Mumford</hi> Indian, and <hi>John Kencate</hi> Doctor, were brought to the Bar: And Arraigned upon the Articles Exhibited againſt them (and others) for Pyracy, Robbery, &amp; Felony.</p>
                <p>The Regiſter Read the Articles in theſe Words following.</p>
                <q>
@@ -425,7 +427,7 @@ William Studfield, Owen Rice, William Read, Thomas Hugget, Peter Cues, Thomas Jo
                         </gap> the Bar ſtand Articled againſt, and are Proſecuted for<g ref="char:punc">▪</g> ſeveral Felonies, Piracies, and Robberies by them committed upon the High Sea. To which they have ſeverally pleased. Not Guilty.</hi>
                   </p>
                   <p>
-                     <pb n="3" facs="tcp:039785_0004_1015C575192E7CC8"/>
+                     <pb n="3" facs="unknown:039785_0004_1015C575192E7CC8"/>
                      <hi>The Crime of Pyracy is a Robbery (for Pyracy is a Sea Term for Robbery) Committed within the Juriſdiction of the Admiralty.</hi>
                   </p>
                   <p>
@@ -574,7 +576,7 @@ William Studfield, Owen Rice, William Read, Thomas Hugget, Peter Cues, Thomas Jo
                   </gap> the Pirate and his Crew in <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>
-                  <pb n="4" facs="tcp:039785_0005_1015C58A72CB6EE8"/>
+                  <pb n="4" facs="unknown:039785_0005_1015C58A72CB6EE8"/>
 was Mate of the aboveſaid Ship taken as aforeſaid by <hi>Low</hi> the Pirate and his Crew in the Two Sloops Fortune &amp; Ranger; and that the ſaid Pirate forced from out of the ſaid Ship Amſterdam-Merchant, one <hi>Henry Barns</hi> now a Priſoner at the Bar, who cryed and took on very much: and deſired this Deponant to acquaint his three Siſters living in <hi>Barbadoes</hi> that he was a <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Man, and alſo very ſick and weak at the ſaid time.</p>
@@ -653,7 +655,7 @@ was Mate of the aboveſaid Ship taken as aforeſaid by <hi>Low</hi> the Pirate a
                         </gap> or perſwaded one another, or rather the Compulſion proceeded of their own <gap reason="illegible" resp="#PDCC" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap>
-                        <pb n="5" facs="tcp:039785_0006_1015C5779ED9BC50"/>
+                        <pb n="5" facs="unknown:039785_0006_1015C5779ED9BC50"/>
 Inclinations: But if there was the leaſt ſemblance of truth in the</hi> Plea; <hi>it might <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> out in Proof, That the Priſoners or ſome of them did manifeſt their uneaſineſs and ſorrow, to <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -743,7 +745,7 @@ Inclinations: But if there was the leaſt ſemblance of truth in the</hi> Plea; 
                      <desc>•</desc>
                   </gap>rd.</p>
                <p>
-                  <pb n="6" facs="tcp:039785_0007_1015BCB42AA21BB8"/>
+                  <pb n="6" facs="unknown:039785_0007_1015BCB42AA21BB8"/>
                   <hi>John Ackin</hi> late Mate of the Ship Amſterdam-Merchant, depoſed, that he was taken in the Ship Am<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>terdam-Merchant by <hi>Low</hi> and Crew as aforeſaid, and that <hi>John Waters</hi> and <hi>Thomas Jones</hi> a <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -851,7 +853,7 @@ Inclinations: But if there was the leaſt ſemblance of truth in the</hi> Plea; 
                      <desc>〈◊〉</desc>
                   </gap>.</p>
                <p>
-                  <pb n="7" facs="tcp:039785_0008_1015C5792A904938"/>
+                  <pb n="7" facs="unknown:039785_0008_1015C5792A904938"/>
                   <hi>James Sprinkly</hi> ſays, he was forced out of a Ship a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> the Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1001,7 +1003,7 @@ Inclinations: But if there was the leaſt ſemblance of truth in the</hi> Plea; 
                      </gap>.</item>
                </list>
                <p>
-                  <pb n="8" facs="tcp:039785_0009_1015C5900D9EA220"/>Ordered that <hi>John Kencate</hi> Doctor, who was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="8" facs="unknown:039785_0009_1015C5900D9EA220"/>Ordered that <hi>John Kencate</hi> Doctor, who was <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rraigned yeſterday be brought to the Bar, and he was brought to the Bar accordingly.</p>
                <q>
@@ -1079,7 +1081,7 @@ Inclinations: But if there was the leaſt ſemblance of truth in the</hi> Plea; 
                <p>Where the Regiſter read the aforeſaid Articles exhibited againſt <hi>Joſeph Swetſer,</hi> in the Words aforeſaid, to which he pleaded, Not Guilty.</p>
                <p>Then the Regiſter read the Articles exhibited againſt <hi>Joſeph Libbey</hi> for Piracies, Robberies and Felonies.</p>
                <p>
-                  <pb n="9" facs="tcp:039785_0010_1015C57B30263F88"/>Then the Regiſter asked the ſaid <hi>Joſeph Libbey,</hi> 
+                  <pb n="9" facs="unknown:039785_0010_1015C57B30263F88"/>Then the Regiſter asked the ſaid <hi>Joſeph Libbey,</hi> 
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> 
@@ -1178,7 +1180,7 @@ Inclinations: But if there was the leaſt ſemblance of truth in the</hi> Plea; 
                   </gap> drink a Drum, but <hi>Swetſer</hi> went down into the Hold and cryed good part of the Day, and that <hi>Low</hi> refuſed to let him go, but brought him and tied him to the Maſt and threatned to Whip him; And he ſaw him Armed, but never uſe his Arms as he knows of: And that <hi>Swetſer</hi> was Sick when they engaged the Man of War, tho' he aſſiſted in rowing the Veſſel.</p>
                <p>
                   <hi>John Wilſon</hi> depoſed, he knows the Priſoners at the Bar to be all on Board the Ranger, and <hi>Thomas Powell</hi> was Gunner of her; and the Sabbath Day before they were taken the ſaid <hi>Powell</hi> told the Deponent he wiſhed he was aſhore at <hi>Long Iſland,</hi> and they two went to the Head of the Maſt, and <hi>Powell</hi> ſaid to him, I wiſh you and I were both aſhore here ſtark naked; And he depoſed that he never ſaw <hi>Joſeph Swetſer</hi> in Arms whilſt he was aboard, but he and
-<pb n="10" facs="tcp:039785_0011_1015C5930F7CC860"/>
+<pb n="10" facs="unknown:039785_0011_1015C5930F7CC860"/>
                   <hi>Powell</hi> 
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -1369,7 +1371,7 @@ Inclinations: But if there was the leaſt ſemblance of truth in the</hi> Plea; 
                         </gap>te the breach of the</hi> Ten Commandments.</p>
                </q>
                <p>
-                  <pb n="11" facs="tcp:039785_0012_1015C57FECA89630"/>Then the Priſoners being taken away and all withdrawn but the Regiſter.</p>
+                  <pb n="11" facs="unknown:039785_0012_1015C57FECA89630"/>Then the Priſoners being taken away and all withdrawn but the Regiſter.</p>
                <p>The Court maturely weighed and conſidered the Evidences and the Caſes of the Priſo<g ref="char:EOLhyphen"/>ners, and by an Unanimous Voice found the ſaid <hi>Thomas Powell</hi> and <hi>Joſeph Libbey</hi> guilty of the Piracies, Robberies and Felonies exhibited againſt them, and by a conſiderable Plurality of Voices found the ſaid <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ſeph Swetſer,</hi> not guilty.</p>
@@ -1458,7 +1460,7 @@ Inclinations: But if there was the leaſt ſemblance of truth in the</hi> Plea; 
                      <desc>〈◊〉</desc>
                   </gap> at the Bar a Boy.</p>
                <p>
-                  <pb n="12" facs="tcp:039785_0013_1015C5949F13A488"/>
+                  <pb n="12" facs="unknown:039785_0013_1015C5949F13A488"/>
                   <hi>John Kencate</hi> depoſed, that <hi>Thomas Hazeal, John Bright</hi> and <hi>Patrick Cunningham</hi> Priſoners at the Bar received Sh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>res on board the Pirate Sloop, and <hi>Haz<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1592,7 +1594,7 @@ Inclinations: But if there was the leaſt ſemblance of truth in the</hi> Plea; 
                      <desc>•</desc>
                   </gap> the Regiſter.</p>
                <p>
-                  <pb n="13" facs="tcp:039785_0014_1015C5822D1D2220"/>The Court having deliberately and maturely weighed and conſidered the Evidences given againſt the Priſoners, by an Unanimous Voice found the aforeſaid <hi>Thomas Hazel, John Bright,</hi> and <hi>Patrick Cunningham</hi> Guilty of the Piracies, Robberies and Felonies Exhibited againſt them at this Court.</p>
+                  <pb n="13" facs="unknown:039785_0014_1015C5822D1D2220"/>The Court having deliberately and maturely weighed and conſidered the Evidences given againſt the Priſoners, by an Unanimous Voice found the aforeſaid <hi>Thomas Hazel, John Bright,</hi> and <hi>Patrick Cunningham</hi> Guilty of the Piracies, Robberies and Felonies Exhibited againſt them at this Court.</p>
                <p>And <hi>John Fletcher</hi> and <hi>Thomas Chil<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>,</hi> not Guilty.</p>
@@ -1665,7 +1667,7 @@ Inclinations: But if there was the leaſt ſemblance of truth in the</hi> Plea; 
                   <desc>•</desc>
                </gap>gagement in the Companies Service, ſhall have the Sum of Six Hundred Pieces of Eight, and kept in the Company as long as he pleaſes.</p>
             <p n="8">
-               <pb n="14" facs="tcp:039785_0015_1015C596DE31F330"/>VIII. Good Quarters to be given when Craved.</p>
+               <pb n="14" facs="unknown:039785_0015_1015C596DE31F330"/>VIII. Good Quarters to be given when Craved.</p>
             <p n="9">IX. He that ſees a Sail firſt ſhall have the beſt Piſtol, or Small Arm aboard of her.</p>
             <p n="10">X. And laſtly, No Snapping of Arms in the Hold.</p>
             <p>
